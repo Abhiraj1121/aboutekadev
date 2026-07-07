@@ -1,2 +1,0 @@
-# aboutekadev
-About me ;) 
